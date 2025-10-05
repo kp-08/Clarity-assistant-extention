@@ -1,0 +1,36 @@
+body { font-family: Inter, system-ui, -apple-system, Roboto, Arial; color: #0b1220; }
+#clarity-sidebar {
+  position: fixed;
+  top: 0;
+  right: 0;                  /* always 0, we'll move it with transform */
+  width: 300px;
+  height: 100%;
+  background: #ffffff;
+  box-shadow: -2px 0 5px rgba(0,0,0,0.2);
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  color: #333;
+  line-height: 1.5;
+  overflow-y: auto;
+  z-index: 9999;
+
+  transform: translateX(100%); /* start hidden */
+  transition: transform 0.3s ease; /* smooth slide */
+}
+
+#clarity-summarize-btn {
+  background-color: #4cafef;
+  color: white;
+  border: none;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background 0.2s ease;
+}
+
+#clarity-summarize-btn:hover {
+  background-color: #2e9fd6;
+}
