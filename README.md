@@ -232,10 +232,12 @@ GET  /api/history
 
 ---
 
-If you want, I can:
+## Some Screenshots
 
-* Turn this into a `README.md` and open a PR, or
-* Generate demo GIF placeholder assets and a short `presentation.md` for the judges.
+<img width="1906" height="1026" alt="Screenshot 2025-10-05 194636" src="https://github.com/user-attachments/assets/ed6db3b2-e807-4752-92b0-f7f6cc2d6fcb" />
+<img width="1838" height="853" alt="Screenshot 2025-10-05 194746" src="https://github.com/user-attachments/assets/bbda34f1-a9ee-404a-97dc-1dc344317ccf" />
+<img width="1717" height="707" alt="Screenshot 2025-10-05 194815" src="https://github.com/user-attachments/assets/8cd92c3a-e1ce-483f-9127-27a5b0c2808f" />
 
-Good luck at the hackathon — you nailed the hard UX bits. 🚀
+
+
 
