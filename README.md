@@ -4,7 +4,6 @@
 [![Cerebras](https://img.shields.io/badge/Cerebras-green.svg)](https://cloud.cerebras.ai)
 [![Status](https://img.shields.io/badge/status-Prototype-orange)]()
 
-# Clarity Assistant — Smart Screen Assistant ✨
 
 > Turn any selected text on the web into instant clarity: explain, rephrase, extract actions, or brainstorm next steps — without sending your API keys to third parties.
 
