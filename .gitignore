@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Environment & OS junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Node/JS (if any)
+node_modules/
+dist/
+
+# Secrets
+*.env
+*.pem
+*.key
+
+# Chrome extension build artifacts
+*.zip
